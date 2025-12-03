@@ -3,7 +3,7 @@
 # 🖥️ Projeto: Loja Virtual CabrinhaTech
 
 ## 📋 Sobre o Projeto
-**CabnrinhaTech** é uma loja virtual especializada em placas de vídeo NVIDIA e AMD, desenvolvida como projeto acadêmico do segundo semestre de Ciência da Computação. O site possui navegação completa entre páginas, catálogo de produtos, detalhes individuais e design responsivo.
+**CabrinhaTech** é uma loja virtual especializada em placas de vídeo NVIDIA e AMD, desenvolvida como projeto acadêmico do segundo semestre de Ciência da Computação. O site possui navegação completa entre páginas, catálogo de produtos, detalhes individuais e design responsivo.
 
 > **Bordão da loja:** *"Que aqui a gente Mééééééélhora o seu futuro!"*
 
