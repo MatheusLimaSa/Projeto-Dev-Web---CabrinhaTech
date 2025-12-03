@@ -1,0 +1,17 @@
+.container {
+  padding: 20px;
+}
+
+.grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+}

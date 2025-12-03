@@ -1,0 +1,25 @@
+body { 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  padding: 20px; 
+  background: #f8fafc; 
+  color: #1e293b;
+}
+
+.page {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+h1 {
+  color: #0f172a;
+  border-left: 5px solid #00eaff;
+  padding-left: 15px;
+}
+
+.tagline {
+  font-size: 1.2rem;
+  color: #00eaff;
+  font-weight: bold;
+  margin: 10px 0 20px 0;
+}
